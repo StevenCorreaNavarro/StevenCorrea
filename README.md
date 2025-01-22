@@ -12,7 +12,7 @@
         <ul>
             <li>🌱 <b>Actualmente estoy aoprendiendo</b>: Analisis y desarrollo de software en el Sena Regional Cauca.</li>
             <li>🎯 <b>Actualmente me enfoco en</b>: reolucion de problemas🤩.</li>
-            <li>🤔 <b>Actualmente estoy abierto a </b>: Una nueva oportunidad laboral, <a href="[https://flowcv.io/resume/feedback/lMhKFXfgJjf8](https://flowcv.com/resume/41qn0brsk4)">Mi hoja de vida</a>.</li>
+            <li>🤔 <b>Actualmente estoy abierto a </b>: Una nueva oportunidad laboral, <a href="https://flowcv.com/resume/41qn0brsk4">Mi hoja de vida</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
